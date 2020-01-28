@@ -1,4 +1,4 @@
 Team Members:
 
 Jamie Sinclair
-# TODO: Add others
+Askar Safipour Afshar
